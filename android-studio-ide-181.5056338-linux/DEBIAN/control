@@ -1,0 +1,9 @@
+Package: AndroidStudioIDE
+Version: 181.5056338
+Architecture: all
+Maintainer: edwinspire <edwinspire@gmail.com>
+Section: Develop
+Priority: optional
+Depends: 
+Description: Android Studio proporciona las herramientas más rápidas para crear apps en todas las clases de dispositivos Android.
+
